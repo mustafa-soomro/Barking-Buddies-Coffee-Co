@@ -1,0 +1,24 @@
+.titletext {
+    text-align: center;
+}
+.padding {
+    padding: 30px;
+}
+.locationstext {
+    font-size: 30px;
+    border: solid; 2px
+    background-color: grey;
+}
+body {
+    background-image: url('https://ak.picdn.net/shutterstock/videos/23151769/thumb/1.jpg');
+    background:cover;
+}
+.center {
+    text-align: center;
+}
+.info {
+    font-size: 25px;
+}
+.textsize {
+    font-size: 30px;
+}
